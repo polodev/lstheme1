@@ -4,11 +4,12 @@
 #   url = "about"
 #   weight = 1
 
-# [[main]]
-#   identifier = "archive"
-#   name = "Archive"
-#   url = "archive"
-#   weight = 2
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
+  weight = 10
+
 
 # [[main]]
 #   identifier = "presentation"
@@ -36,22 +37,22 @@
   identifier = "posts"
   name = "Posts"
   url = "posts"
-  weight = 5
+  weight = 1
 [[main]]
   identifier = "articles"
   name = "Articles"
   url = "articles"
-  weight = 5
+  weight = 2
 [[main]]
   identifier = "bits"
   name = "Bits"
   url = "bits"
-  weight = 5
+  weight = 3
 [[main]]
   identifier = "snippets"
   name = "Snippets"
   url = "snippets"
-  weight = 5
+  weight = 4
 
 # [[main]]
 #   identifier = "showcase"

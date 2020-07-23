@@ -1,10 +1,10 @@
 baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+title = "IB Authors"
 theme = "zzo"
 
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
