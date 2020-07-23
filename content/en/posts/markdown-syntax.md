@@ -18,6 +18,7 @@ categories:
 - syntax
 series:
 - Themes Guide
+seriesOrder: 1
 image: images/feature1/markdown.png
 weight: 2
 

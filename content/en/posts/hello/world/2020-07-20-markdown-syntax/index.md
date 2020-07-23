@@ -18,8 +18,8 @@ categories:
 - syntax
 series:
 - Themes Guide
+seriesOrder: 2
 image: images/feature1/markdown.png
-weight: 1
 ---
 
 Changed content
