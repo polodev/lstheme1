@@ -12,6 +12,8 @@ series:
 -
 categories:
 - diagram
+categories_weight: 2
+
 libraries:
 - flowchartjs
 image: images/feature1/flowchart.png

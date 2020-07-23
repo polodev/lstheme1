@@ -1,6 +1,6 @@
 ---
 title: "Viz support"
-date: 2019-11-18T21:00:06+09:00
+date: 2019-11-17T21:00:06+09:00
 description: "A hack to put Graphviz on the web."
 draft: false
 enableToc: false
@@ -11,6 +11,8 @@ series:
 -
 categories:
 - diagram
+categories_weight: 1
+
 libraries:
 - viz
 image: images/feature2/graph.png

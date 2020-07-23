@@ -11,6 +11,8 @@ series:
 -
 categories:
 - diagram
+categories_weight: 3
+
 libraries:
 - msc
 image: images/feature2/transfer.png

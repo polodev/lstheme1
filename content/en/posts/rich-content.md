@@ -1,6 +1,6 @@
 ---
 title: "Rich Content"
-date: 2019-12-19T12:00:06+09:00
+date: 2019-12-22T12:00:06+09:00
 description: "A brief description of Hugo Shortcodes"
 draft: false
 hideToc: false
@@ -13,7 +13,8 @@ tags:
 - privacy
 series:
 - Themes Guide
-seriesOrder: 4
+seriesOrder: 1
+series_weight: 1
 image: images/feature2/content.png
 ---
 

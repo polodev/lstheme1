@@ -1,6 +1,6 @@
 ---
 title: "Shortcodes"
-date: 2020-01-25T06:40:51+09:00
+date: 2019-12-20T12:00:06+09:00
 description: tabs, code-tabs, expand, alert, warning, notice, img, box
 draft: false
 hideToc: false
@@ -10,7 +10,9 @@ tocPosition: inner
 tags:
 - shortcode
 series:
--
+- Themes Guide
+seriesOrder: 1
+series_weight: 1
 categories:
 -
 image: images/feature3/code-file.png

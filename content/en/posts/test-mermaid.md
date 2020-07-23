@@ -11,6 +11,8 @@ series:
 -
 categories:
 - diagram
+categories_weight: 4
+
 libraries:
 - mermaid
 image: images/feature2/workflow.png

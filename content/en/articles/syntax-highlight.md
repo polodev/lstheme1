@@ -12,9 +12,7 @@ authorEmoji: 🎅
 pinned: true
 tags:
 - hugo
-series:
-- Themes Guide
-seriesOrder: 3
+
 categories:
 - hugo
 image: images/feature2/color-palette.png

@@ -12,9 +12,6 @@ authorEmoji: 👺
 tags: 
 - shortcodes
 - privacy
-series:
-- Themes Guide
-seriesOrder: 4
 image: images/feature2/content.png
 ---
 

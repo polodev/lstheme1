@@ -11,6 +11,8 @@ series:
 -
 categories:
 - diagram
+categories_weight: 1
+
 libraries:
 - chart
 image: images/feature1/graph.png

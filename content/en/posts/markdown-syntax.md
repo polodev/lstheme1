@@ -19,6 +19,7 @@ categories:
 series:
 - Themes Guide
 seriesOrder: 1
+series_weight: 1
 image: images/feature1/markdown.png
 weight: 2
 

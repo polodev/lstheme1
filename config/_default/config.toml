@@ -20,7 +20,7 @@ enableGitInfo = false
 googleAnalytics = ""
 
 [permalinks]
-  posts = "/tutorial/:slug/"
+  posts = "/posts/:slug/"
   articles = "/articles/:slug/"
   bits = "/bits/:slug/"
   snippets = "/snippets/:slug/"
@@ -59,12 +59,15 @@ googleAnalytics = ""
   tag = "tags"
   series = "series"
   
-  article_tag="article_tags"
-  article_category = "article_categories"
-  bits_tag="bits_tags"
-  bits_category = "bits_categories"
-  snippet_tag="snippet_tags"
-  snippet_category = "snippet_categories"
+  article-tag="article-tags"
+  article-category = "article-categories"
+  article-series = "article-series"
+
+  bits-tag="bits-tags"
+  bits-category = "bits-categories"
+
+  snippet-tag="snippet-tags"
+  snippet-category = "snippet-categories"
 
 
 
