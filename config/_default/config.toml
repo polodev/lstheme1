@@ -20,7 +20,10 @@ enableGitInfo = false
 googleAnalytics = ""
 
 [permalinks]
-  posts = "/:slug/"
+  posts = "/tutorial/:slug/"
+  articles = "/articles/:slug/"
+  bits = "/bits/:slug/"
+  snippets = "/snippets/:slug/"
 
 [markup]
   [markup.goldmark]
@@ -55,3 +58,13 @@ googleAnalytics = ""
   category = "categories"
   tag = "tags"
   series = "series"
+  
+  article_tag="article_tags"
+  article_category = "article_categories"
+  bits_tag="bits_tags"
+  bits_category = "bits_categories"
+  snippet_tag="snippet_tags"
+  snippet_category = "snippet_categories"
+
+
+
